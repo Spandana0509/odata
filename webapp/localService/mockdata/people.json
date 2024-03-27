@@ -1,0 +1,41 @@
+{
+	"@odata.context": "https://services.odata.org/TripPinRESTierService/(S(id))/$metadata#People(product_id,product_name,product_img,product_cost,product_sell,BestFriend,HomeAddress)",
+	"value": [
+		{
+			"Age":50 ,
+			"FirstName": "501",
+			"LastName": "bag",
+			"UserName": "img",
+			"cost":30
+			
+		},
+		{
+			"Age":50 ,
+			"FirstName": "01",
+			"LastName": "bangle",
+			"UserName": "img",
+			"cost":30
+			
+		},
+		{
+			"Age":50 ,
+			"FirstName": "01",
+			"LastName": "bangle",
+			"UserName": "img",
+			"cost":30
+			
+		},
+		{
+			"Age":50 ,
+			"FirstName": "01",
+			"LastName": "bag",
+			"UserName": "img",
+			"cost":30
+			
+		}
+		
+	
+			
+		
+	]
+}
